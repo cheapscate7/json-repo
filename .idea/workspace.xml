@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="46fe8a9f-3dc2-4ae1-91f9-422f0bae8ad8" name="Default Changelist" comment="added about_me and jobs">
-      <change beforePath="$PROJECT_DIR$/jobs.json" beforeDir="false" afterPath="$PROJECT_DIR$/jobs.json" afterDir="false" />
-    </list>
+    <list default="true" id="46fe8a9f-3dc2-4ae1-91f9-422f0bae8ad8" name="Default Changelist" comment="added about_me and jobs" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,20 +10,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about_me.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="325" selection-start-line="2" selection-start-column="325" selection-end-line="2" selection-end-column="325" />
+            <state relative-caret-position="408">
+              <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jobs.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+            <state relative-caret-position="756">
+              <caret line="51" column="5" lean-forward="true" selection-end-line="51" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -35,6 +33,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>'</find>
+      <find>&lt;br&gt;</find>
     </findStrings>
     <replaceStrings>
       <replace>&quot;</replace>
@@ -118,12 +117,12 @@
       <option name="presentableId" value="Default" />
       <updated>1585764694514</updated>
       <workItem from="1585764696868" duration="706000" />
-      <workItem from="1585765948648" duration="294000" />
+      <workItem from="1585765948648" duration="756000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1000000" />
+    <option name="totallyTimeSpent" value="1462000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -179,17 +178,17 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/about_me.json">
+    <entry file="file://$PROJECT_DIR$/jobs.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="325" selection-start-line="2" selection-start-column="325" selection-end-line="2" selection-end-column="325" />
+        <state relative-caret-position="756">
+          <caret line="51" column="5" lean-forward="true" selection-end-line="51" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jobs.json">
+    <entry file="file://$PROJECT_DIR$/about_me.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
+        <state relative-caret-position="408">
+          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
         </state>
       </provider>
     </entry>
