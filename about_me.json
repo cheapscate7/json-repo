@@ -1,0 +1,25 @@
+{
+        "title": "Who am I?",
+        "subtitle": "I am a 24 year old Brit living in The Netherlands. \n    I love \uD83C\uDF55 and \uD83C\uDFB8\n    I dislike peas and rainy weekends \uD83E\uDD22\n    If you are reading this, I am probably looking for a job so I would also like to say, I am the most amazing colleague <span class='italics'>ever</span> and I am both <span class='italics'>incredibly witty</span> and <span class='italics'>talented</span>",
+        "blob": [
+            { "title": "Specialisation?", "description": "Javascript" },
+            {
+                "title": "Experience?",
+                "description": "~3 years"
+            },
+            {
+                "title": "Degree?",
+                "description":
+                    "BSc. Computer Science with International Experience <span class='italics'>- Bangor University</span>"
+            },
+            {
+                "title": "Favourite frameworks / Libraries?",
+                "description": "Svelte but I also love React and Angular"
+            },
+            {
+                "title": "What do you love most about Frontend work?",
+                "description":
+                    "Knowing that people get to see and interact with what I have made"
+            }
+        ]
+    }
