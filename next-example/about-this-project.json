@@ -1,0 +1,28 @@
+{
+  "title": "About this project",
+  "subtitle": [
+    "I made this as an example of my knowledge of Next.js as all the other examples I have are not public. In order to make this useful, I decided to make this example explain a bit about me. This is why I used Next.js instead of create-react-app which would have been a bit more straightforward for an app of this size.",
+    "When it comes to React and Next.js I am completely self taught so I am always ironing out the kinks in the way I create things. Luckily, React is pretty nice for doing things your own way"
+    ],
+  "blob_title": "Notes",
+  "blob": [
+    { "title": "", "description": "I wanted to use API routes with this project but I had some trouble running them on <Code>now</Code. They did get deployed but I was getting some other problems so to simplify the whole thing I just pull the JSON directly from my host on GitHub. I didnt really need to transform the data anyway so API routes would have just have been a middle man for the data in the end." },
+    {"title":  "", "description":  "I also considered AMP for this but I only have 1 image and it is a <Code>webp</Code> so it is already pretty optimised and I found whenever I had AMP enabled it would stop my jobs list rendering."},
+    {
+      "title": "",
+      "decription": "I did this project over a weekend so, although I tried to make this as true to my professional development process\nas possible, I was a bit strapped for time so there may be a few <span class='italics'>dirty hacks</span>"
+    }
+  ],
+  "find_me": [
+    {
+      "name": "linkedin",
+      "label": "LinkedIn",
+      "link": "https://www.linkedin.com/in/matthewbadcock/"
+    },
+    {
+      "name": "github",
+      "label": "Github",
+      "link": "https://github.com/cheapscate7"
+    }
+  ]
+}
