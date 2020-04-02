@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46fe8a9f-3dc2-4ae1-91f9-422f0bae8ad8" name="Default Changelist" comment="added about_me and jobs">
-      <change afterPath="$PROJECT_DIR$/next-example/about-this-project.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about_me.json" beforeDir="false" afterPath="$PROJECT_DIR$/next-example/about_me.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jobs.json" beforeDir="false" afterPath="$PROJECT_DIR$/next-example/jobs.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next-example/about-this-project.json" beforeDir="false" afterPath="$PROJECT_DIR$/next-example/about-this-project.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/next-example/about_me.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="476">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
@@ -26,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/next-example/about-this-project.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" selection-end-column="1" />
+            <state relative-caret-position="272">
+              <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -77,7 +76,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -85,16 +83,22 @@
               <item name="json-repo" type="b2602c69:ProjectViewProjectNode" />
               <item name="json-repo" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="json-repo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="json-repo" type="462c0819:PsiDirectoryNode" />
+              <item name="next-example" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../next-example" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -127,18 +131,22 @@
       <updated>1585764694514</updated>
       <workItem from="1585764696868" duration="706000" />
       <workItem from="1585765948648" duration="756000" />
-      <workItem from="1585829391300" duration="1693000" />
+      <workItem from="1585829391300" duration="1971000" />
+      <workItem from="1585834155826" duration="18000" />
+      <workItem from="1585835184439" duration="385000" />
+      <workItem from="1585836852838" duration="41000" />
+      <workItem from="1585837311324" duration="555000" />
+      <workItem from="1585846954594" duration="233000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3155000" />
+    <option name="totallyTimeSpent" value="4665000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24617068" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27352297" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -191,7 +199,7 @@
     <entry file="file://$PROJECT_DIR$/next-example/about_me.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
@@ -204,8 +212,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/next-example/about-this-project.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" selection-end-column="1" />
+        <state relative-caret-position="272">
+          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
         </state>
       </provider>
     </entry>

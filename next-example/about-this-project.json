@@ -6,11 +6,15 @@
     ],
   "blob_title": "Notes",
   "blob": [
-    { "title": "", "description": "I wanted to use API routes with this project but I had some trouble running them on <Code>now</Code. They did get deployed but I was getting some other problems so to simplify the whole thing I just pull the JSON directly from my host on GitHub. I didnt really need to transform the data anyway so API routes would have just have been a middle man for the data in the end." },
+    { "title": "", "description": "I wanted to use API routes with this project but I had some trouble running them on <Code>now</Code>. They did get deployed but I was getting some other problems so to simplify the whole thing I just pull the JSON directly from my host on GitHub. I didnt really need to transform the data anyway so API routes would have just have been a middle man for the data in the end." },
     {"title":  "", "description":  "I also considered AMP for this but I only have 1 image and it is a <Code>webp</Code> so it is already pretty optimised and I found whenever I had AMP enabled it would stop my jobs list rendering."},
     {
       "title": "",
       "decription": "I did this project over a weekend so, although I tried to make this as true to my professional development process\nas possible, I was a bit strapped for time so there may be a few <span class='italics'>dirty hacks</span>"
+    },
+    {
+      "title": "",
+      "decription": "I would like to eventually add translations to the site and alternate themes however, I think I will leave that all for another day "
     }
   ],
   "find_me": [
