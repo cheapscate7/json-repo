@@ -1,8 +1,8 @@
 {
   "title": "About this project",
   "subtitle": [
-    "I made this as an example of my knowledge of Next.js as all the other examples I have are not public. In order to make this useful, I decided to make this example explain a bit about me. This is why I used Next.js instead of create-react-app which would have been a bit more straightforward for an app of this size.",
-    "When it comes to React and Next.js I am completely self taught so I am always ironing out the kinks in the way I create things. Luckily, React is pretty nice for doing things your own way"
+    "I made this as an example of my knowledge of Next.js as all the other examples I have are not public. In order to make this useful, I decided to make this example explain a bit about me. This is why I used Next.js instead of <span class='code'>create-react-app</span> which would have been a bit more straightforward for an app of this size.",
+    "When it comes to React and Next.js I am completely self taught so I am always ironing out the kinks in the way I write applications. Luckily, React is pretty nice for doing things your own way"
     ],
   "sections": [
     {
