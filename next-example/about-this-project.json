@@ -6,11 +6,11 @@
     ],
   "sections": [
     {
-      "title": "Notes",
+      "title": "\uD83C\uDFB6 Notes",
       "subtitle": [
-        "I wanted to use API routes with this project but I had some trouble running them on <Code>now</Code>. They did get deployed but I was getting some other problems so to simplify the whole thing I just pull the JSON directly from my host on GitHub. I didnt really need to transform the data anyway so API routes would have just have been a middle man for the data in the end.",
-        "I also considered AMP for this but I only have 1 image and it is a <Code>webp</Code> so it is already pretty optimised and I found whenever I had AMP enabled it would stop my jobs list rendering.",
-        "I did this project over a weekend so, although I tried to make this as true to my professional development process as possible, I was a bit strapped for time so there may be a few <span class='italics'>dirty hacks</span>",
+        "I wanted to use API routes with this project but I had some trouble running them on <span class='code'>now</span>. They did get deployed but I was getting some other problems so to simplify the whole thing I just pull the JSON directly from my host on GitHub. I didnt really need to transform the data anyway so API routes would have just have been a middle man for the data in the end.",
+        "I also considered AMP ⚡ for this but there were a few problems that I was strapped for time to fix so it is a task for another day. I was able to do some other optimisations though such as using webp for the images which is much more straightforward",
+        "I did this project mostly over a weekend so, although I tried to make this as true to my professional development process as possible, I was a bit strapped for time so there may be a few <span class='italics'>dirty hacks</span>",
         "I would like to eventually add translations to the site and alternate themes however, I think I will leave that all for another day "
       ]
     }
