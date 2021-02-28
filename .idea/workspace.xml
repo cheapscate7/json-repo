@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="46fe8a9f-3dc2-4ae1-91f9-422f0bae8ad8" name="Default Changelist" comment="added about_me and jobs">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next-example/about-this-project.json" beforeDir="false" afterPath="$PROJECT_DIR$/next-example/about-this-project.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +75,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -93,6 +91,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -140,17 +139,19 @@
       <workItem from="1585946641791" duration="1230000" />
       <workItem from="1585952918208" duration="665000" />
       <workItem from="1585953680138" duration="6000" />
+      <workItem from="1585953961787" duration="694000" />
+      <workItem from="1586032874140" duration="12000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6566000" />
+    <option name="totallyTimeSpent" value="7272000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="219" y="0" width="1708" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16019417" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16383494" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
