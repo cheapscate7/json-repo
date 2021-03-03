@@ -1,17 +1,31 @@
 {
+    "overview": {
+        "title": "Who am I?",
+        "blob": [
+            "I am a 25 year old Beatles enthusiast from the UK and I live in Utrecht, Netherlands",
+            "I moved to the Netherlands almost 3 years ago and I have worked as a Developer ever since. It was always a dream of mine to move or study in The Netherlands so when I completed my degree, I figured it was the best time to move. I guess I am lucky that I was able to achieve one of my dreams"
+        ]
+    },
     "segments": [
         {
-            "title": "Who am I?",
+            "title": "Qualifications and Specialisations",
             "blob": [
-                "I am a 25 year old Beatles enthusiast from the UK and I live in Utrecht, Netherlands",
-                "I moved to the Netherlands almost 3 years ago and I have worked as a Developer ever since. It was always a dream of mine to move or study in The Netherlands so when I completed my degree, I figured it was the best time to move"
+                "I graduated in 2017 a *Bsc. Computer Science* with International Experience from *Bangor University*",
+                "I began my career as a Fullstack dev; working with the likes of *Symfony* and *Laravel* but soon I found that I preferred the more visual aspects of developing",
+                "Almost 3 years ago, I was given the opportunity to move to a more Frontend orientated role and I took it",
+                "Starting out with *Angular*, I moved on to *EmberJS* for about a year before I was asked to start out a new *React* based project"
             ]
         },
         {
-            "title": "Qualifications and Specialisation",
+            "title": "Favourite frameworks & Libraries",
             "blob": [
-                "I graduated in 2017 a Bsc. Computer Science with International Experience from Bangor University"
+                "Personally I love *Svelte*; it has elegantly incorporated a lot of my favourite features from other frameworks while keeping everything simple and it takes me back to when I stated out with writing vanilla websites but with a modern component based feel. I also think that it has lit a fire in the framework world to start to think of new ways to build frameworks and libraries",
+                "Of course I can't forget React; my first React project relied on me to iron out all the creases and crevasses in puttion the tech stack together. Having something to sink my teeth into really got me itno the library."
             ]
+        },
+        {
+            "title": "What do you love most about Frontend work?",
+            "blob": "I love that it is so visual, the fact that i know people can see my work and that they can interact with it in such a visible way. I think that Frontend work is very tangable and that can make a positive impact on people."
         }
     ]
 }
