@@ -15,7 +15,7 @@
         "company_name": "Channable",
         "position": "Frontend Developer",
         "duration": ["03-2019", "06-2020"],
-        "image_src": "https://pbs.twimg.com/profile_images/1050011790917201920/y3hJ56H3.jpg",
+        "image_src": "https://www.eu-startups.com/wp-content/uploads/2018/12/download-6-6.png",
         "location": "Utrecht NL",
         "worked_with": ["Ember", "Next JS", "Svelte"],
         "description":
@@ -26,7 +26,7 @@
         "company_name": "Watermelon BV",
         "position": "Software Developer",
         "duration": ["06-2018", "01-2019"],
-        "image_src": "https://pbs.twimg.com/profile_images/1050011790917201920/y3hJ56H3.jpg",
+        "image_src": "https://media-exp1.licdn.com/dms/image/C4D0BAQGTeSJ3TkNU8g/company-logo_200_200/0/1609157428176?e=2159024400&v=beta&t=89Ry8NM5V79eZasAK9IJEFj__lZWRdX8mshZwyUqbfs",
         "location": "Utrecht NL",
         "worked_with": ["Angular", "Laravel", "Python"],
         "description":
@@ -34,10 +34,10 @@
     },
     {
         "id": 4,
-        "company_name": "Payroll on the Web",
+        "company_name": "Payroll on the Web/PayArc",
         "position": "Intern",
         "duration": ["12-2017", "01-2018"],
-        "image_src": "https://pbs.twimg.com/profile_images/1050011790917201920/y3hJ56H3.jpg",
+        "image_src": "https://media-exp1.licdn.com/dms/image/C561BAQHY8slADBTDNg/company-background_10000/0?e=2159024400&v=beta&t=ZBnjyWj1fWzaZ9TOR4ZNBrRfA4F-OMMwVTB46UTcQ0I",
         "location": "California USA",
         "worked_with": [],
         "description":
@@ -48,7 +48,7 @@
         "company_name": "BBooster Ventures",
         "position": "Frontend Developer",
         "duration": ["09-2016", "03-2017"],
-        "image_src": "https://pbs.twimg.com/profile_images/1050011790917201920/y3hJ56H3.jpg",
+        "image_src": "https://media-exp1.licdn.com/dms/image/C560BAQFvpUrckxKJ3Q/company-logo_200_200/0?e=2159024400&v=beta&t=2TT2nDOHLV1dr_hhUlplu4AjS4bex6oWrsf27eSh1Jc",
         "location": "Valencia, ES",
         "worked_with": ["Symfony2", "PHP"],
         "description":
@@ -59,7 +59,7 @@
         "company_name": "Self Employed",
         "position": "Self Employed Web Developer",
         "duration": ["2016"],
-        "image_src": "https://pbs.twimg.com/profile_images/1050011790917201920/y3hJ56H3.jpg",
+        "image_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Color_icon_white.svg/1200px-Color_icon_white.svg.png",
         "location": "Nottinghamshire, UK",
         "worked_with": ["HTML5", "CSS", "JS"],
         "description":
