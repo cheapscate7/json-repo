@@ -8,7 +8,7 @@
         "location": "Utrecht NL",
         "worked_with": ["React", "Next JS", "Drupal", "GraphQL"],
         "description":
-            "One Shoe is a creative bureau that combines strategy, design, and development for award winning apps.  I started my career at One Shoe working with Drupal on the frontend but moved to React with NextJS and Graphql. My job involved constant communication with clients and design driven development."
+            "One Shoe is a creative bureau that combines strategy, design, and development for award winning apps.<br/>I started my career at One Shoe working with Drupal on the frontend but moved to React with NextJS and Graphql. My job involved constant communication with clients and design driven development."
     },
     {
         "id": 2,
@@ -30,7 +30,7 @@
         "location": "Utrecht NL",
         "worked_with": ["Ember", "Next JS", "Svelte"],
         "description":
-            "Channable is a feed management tool for bringing products to multiple vendors simultaneously and also automating ads from those products.  I developed the frontend to our SAAS platform using Ember and was responsible for many new features being one of two Frontend Developers. I was also heavily involved in creating a new customer facing website using Server Side Rendered React and improved SEO tools. In addition, I worked on some smaller projects using Flutter and Svelte."
+            "Channable is a feed management tool for bringing products to multiple vendors simultaneously and also automating ads from those products.<br/>I developed the frontend to our SAAS platform using Ember and was responsible for many new features being one of two Frontend Developers. I was also heavily involved in creating a new customer facing website using Server Side Rendered React and improved SEO tools. In addition, I worked on some smaller projects using Flutter and Svelte."
     },
     {
         "id": 4,
@@ -41,7 +41,7 @@
         "location": "Utrecht NL",
         "worked_with": ["Angular", "Laravel", "Python"],
         "description":
-            "Watermelon provides chatbots to assist with customer service.  I worked on the product team in three week sprints to deliver a Saas product using Angular + Javascript, Node, HTML/CSS, and Laravel.  As well as development, I was responsible for presenting internal 'knowledge sessions' where I would talk about the languages and frameworks used by Watermelon in order to better collaborate with my colleagues."
+            "Watermelon provides chatbots to assist with customer service.<br/>I worked on the product team in three week sprints to deliver a Saas product using Angular + Javascript, Node, HTML/CSS, and Laravel.<br/>As well as development, I was responsible for presenting internal 'knowledge sessions' where I would talk about the languages and frameworks used by Watermelon in order to better collaborate with my colleagues."
     },
     {
         "id": 5,
@@ -52,7 +52,7 @@
         "location": "California USA",
         "worked_with": [],
         "description":
-            "Alimac PC Services manages the payroll for fast food companies and restaurants throughout the United States of America.  My job assisted this process by checking and altering tax numbers applied to payees and printing W2 forms."
+            "Alimac PC Services manages the payroll for fast food companies and restaurants throughout the United States of America.<br/>My job assisted this process by checking and altering tax numbers applied to payees and printing W2 forms."
     },
     {
         "id": 6,
